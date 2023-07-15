@@ -1,0 +1,1434 @@
+﻿Log file open, 06/10/23 05:19:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../Kules/Content/Paks/Kules-WindowsServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../Kules/Content/Paks/Kules-WindowsServer.pak.
+LogPakFile: PakFile PrimaryIndexSize=26718
+LogPakFile: PakFile PathHashIndexSize=48461
+LogPakFile: PakFile FullDirectoryIndexSize=65088
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../Kules/Content/Paks/Kules-WindowsServer.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../Kules/Content/Paks/Kules-WindowsServer.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000033
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 9 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.080580
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin VaRest
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin EasyFileDialog
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Jun 10 2023 04:13:14
+LogInit: Compiled with Visual C++: 19.29.30148.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -log
+LogInit: Base Directory: C:/Bek/Kules 4.27/WindowsServer/Kules/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogLinker: AddRedirectList(../../../Kules/Saved/Config/WindowsServer/VaRest.ini) has substring redirect /VaRestPlugin/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Kules/Saved/Config/WindowsServer/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: false
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.06.10-00.19.23:561][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.06.10-00.19.23:562][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.06.10-00.19.23:562][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.06.10-00.19.23:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../Kules/Saved/Config/WindowsServer/Engine.ini]
+[2023.06.10-00.19.23:562][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.06.10-00.19.23:562][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2023.06.10-00.19.23:563][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2023.06.10-00.19.23:563][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2023.06.10-00.19.23:563][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2023.06.10-00.19.23:563][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2023.06.10-00.19.23:564][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2023.06.10-00.19.23:564][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2023.06.10-00.19.23:564][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2023.06.10-00.19.23:564][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2023.06.10-00.19.23:564][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2023.06.10-00.19.23:565][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2023.06.10-00.19.23:565][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2023.06.10-00.19.23:565][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2023.06.10-00.19.23:565][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2023.06.10-00.19.23:566][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2023.06.10-00.19.23:566][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2023.06.10-00.19.23:566][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2023.06.10-00.19.23:566][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2023.06.10-00.19.23:566][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2023.06.10-00.19.23:567][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2023.06.10-00.19.23:567][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2023.06.10-00.19.23:567][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2023.06.10-00.19.23:567][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2023.06.10-00.19.23:568][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2023.06.10-00.19.23:568][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2023.06.10-00.19.23:568][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2023.06.10-00.19.23:568][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2023.06.10-00.19.23:569][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2023.06.10-00.19.23:569][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2023.06.10-00.19.23:569][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2023.06.10-00.19.23:569][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2023.06.10-00.19.23:569][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2023.06.10-00.19.23:569][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2023.06.10-00.19.23:569][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2023.06.10-00.19.23:570][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2023.06.10-00.19.23:570][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2023.06.10-00.19.23:570][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2023.06.10-00.19.23:570][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2023.06.10-00.19.23:571][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2023.06.10-00.19.23:571][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2023.06.10-00.19.23:571][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2023.06.10-00.19.23:571][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2023.06.10-00.19.23:571][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2023.06.10-00.19.23:572][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2023.06.10-00.19.23:575][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.06.10-00.19.23:575][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2023.06.10-00.19.23:575][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2023.06.10-00.19.23:575][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2023.06.10-00.19.23:575][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2023.06.10-00.19.23:576][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2023.06.10-00.19.23:576][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.06.10-00.19.23:576][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2023.06.10-00.19.23:576][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2023.06.10-00.19.23:577][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2023.06.10-00.19.23:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2023.06.10-00.19.23:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2023.06.10-00.19.23:577][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2023.06.10-00.19.23:577][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2023.06.10-00.19.23:578][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2023.06.10-00.19.23:578][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2023.06.10-00.19.23:578][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2023.06.10-00.19.23:578][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2023.06.10-00.19.23:579][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2023.06.10-00.19.23:579][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2023.06.10-00.19.23:579][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2023.06.10-00.19.23:579][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2023.06.10-00.19.23:579][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2023.06.10-00.19.23:579][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2023.06.10-00.19.23:579][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2023.06.10-00.19.23:580][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2023.06.10-00.19.23:580][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2023.06.10-00.19.23:580][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2023.06.10-00.19.23:580][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2023.06.10-00.19.23:581][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2023.06.10-00.19.23:581][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2023.06.10-00.19.23:581][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2023.06.10-00.19.23:581][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2023.06.10-00.19.23:581][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2023.06.10-00.19.23:581][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2023.06.10-00.19.23:583][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2023.06.10-00.19.23:583][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2023.06.10-00.19.23:583][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2023.06.10-00.19.23:583][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2023.06.10-00.19.23:583][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2023.06.10-00.19.23:584][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2023.06.10-00.19.23:584][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2023.06.10-00.19.23:584][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2023.06.10-00.19.23:585][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.06.10-00.19.23:585][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2023.06.10-00.19.23:585][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2023.06.10-00.19.23:586][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2023.06.10-00.19.23:586][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2023.06.10-00.19.23:586][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2023.06.10-00.19.23:586][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2023.06.10-00.19.23:586][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2023.06.10-00.19.23:587][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2023.06.10-00.19.23:587][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:1]]
+[2023.06.10-00.19.23:587][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:1]]
+[2023.06.10-00.19.23:587][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2023.06.10-00.19.23:587][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2023.06.10-00.19.23:588][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2023.06.10-00.19.23:590][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2023.06.10-00.19.23:590][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2023.06.10-00.19.23:590][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2023.06.10-00.19.23:590][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2023.06.10-00.19.23:591][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2023.06.10-00.19.23:591][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2023.06.10-00.19.23:591][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2023.06.10-00.19.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../Kules/Saved/Config/WindowsServer/Engine.ini]
+[2023.06.10-00.19.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Kules/Saved/Config/WindowsServer/Engine.ini]
+[2023.06.10-00.19.23:591][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.06.10-00.19.23:591][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.06.10-00.19.23:592][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.06.10-00.19.23:592][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.06.10-00.19.23:592][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.06.10-00.19.23:592][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.06.10-00.19.23:593][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.06.10-00.19.23:593][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.06.10-00.19.23:593][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.06.10-00.19.23:593][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.06.10-00.19.23:594][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.06.10-00.19.23:594][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.06.10-00.19.23:594][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.06.10-00.19.23:594][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.06.10-00.19.23:594][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../Kules/Saved/Config/WindowsServer/Engine.ini]
+[2023.06.10-00.19.23:595][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.06.10-00.19.23:595][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.06.10-00.19.23:595][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.06.10-00.19.23:595][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.06.10-00.19.23:596][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.06.10-00.19.23:596][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.06.10-00.19.23:596][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.06.10-00.19.23:596][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.06.10-00.19.23:596][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.06.10-00.19.23:597][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.06.10-00.19.23:597][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.06.10-00.19.23:597][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.06.10-00.19.23:597][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.06.10-00.19.23:598][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.06.10-00.19.23:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../Kules/Saved/Config/WindowsServer/Engine.ini]
+[2023.06.10-00.19.23:598][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:598][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.10-00.19.23:599][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.10-00.19.23:599][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:599][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.10-00.19.23:599][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:599][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.10-00.19.23:599][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.10-00.19.23:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.10-00.19.23:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.10-00.19.23:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.10-00.19.23:601][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.10-00.19.23:601][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.10-00.19.23:602][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.10-00.19.23:602][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.10-00.19.23:602][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.10-00.19.23:602][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.10-00.19.23:602][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.10-00.19.23:603][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.10-00.19.23:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.10-00.19.23:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.10-00.19.23:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.10-00.19.23:604][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.10-00.19.23:606][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.10-00.19.23:606][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:606][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.10-00.19.23:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.10-00.19.23:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.10-00.19.23:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.10-00.19.23:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.10-00.19.23:607][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.10-00.19.23:608][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.10-00.19.23:608][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.10-00.19.23:608][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.10-00.19.23:608][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.10-00.19.23:608][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.10-00.19.23:609][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.10-00.19.23:609][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.10-00.19.23:609][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.10-00.19.23:609][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.10-00.19.23:610][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.10-00.19.23:610][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.10-00.19.23:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.10-00.19.23:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.10-00.19.23:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.10-00.19.23:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.10-00.19.23:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.10-00.19.23:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.10-00.19.23:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.10-00.19.23:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.10-00.19.23:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.10-00.19.23:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.10-00.19.23:612][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.10-00.19.23:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.10-00.19.23:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.10-00.19.23:612][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:613][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.10-00.19.23:613][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.10-00.19.23:613][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.10-00.19.23:613][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.10-00.19.23:613][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.10-00.19.23:614][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.10-00.19.23:614][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.10-00.19.23:614][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.10-00.19.23:614][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.10-00.19.23:615][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:615][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.10-00.19.23:615][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.10-00.19.23:615][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.10-00.19.23:615][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.10-00.19.23:616][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.10-00.19.23:616][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.10-00.19.23:616][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.10-00.19.23:616][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.10-00.19.23:617][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.10-00.19.23:617][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.10-00.19.23:617][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.10-00.19.23:617][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.10-00.19.23:617][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.10-00.19.23:618][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.10-00.19.23:618][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.10-00.19.23:618][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.10-00.19.23:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.10-00.19.23:619][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.10-00.19.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.10-00.19.23:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.10-00.19.23:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.10-00.19.23:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.10-00.19.23:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.10-00.19.23:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.10-00.19.23:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.10-00.19.23:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.10-00.19.23:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.10-00.19.23:624][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.10-00.19.23:624][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.06.10-00.19.23:624][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:624][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.10-00.19.23:625][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.10-00.19.23:625][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:625][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.10-00.19.23:625][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.10-00.19.23:626][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.10-00.19.23:626][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.06.10-00.19.23:626][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2023.06.10-00.19.23:626][  0]LogHAL: Display: Platform has ~ 16 GB [17043779584 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.10-00.19.23:626][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2023.06.10-00.19.23:627][  0]LogInit: Going up to parent DeviceProfile []
+[2023.06.10-00.19.23:627][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:627][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.10-00.19.23:627][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.10-00.19.23:627][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:628][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.10-00.19.23:628][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:628][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.10-00.19.23:628][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.10-00.19.23:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.10-00.19.23:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.10-00.19.23:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.10-00.19.23:629][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.10-00.19.23:629][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.10-00.19.23:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.10-00.19.23:630][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.10-00.19.23:630][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.10-00.19.23:630][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.10-00.19.23:631][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.10-00.19.23:631][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.10-00.19.23:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.10-00.19.23:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.10-00.19.23:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.10-00.19.23:632][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.10-00.19.23:632][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.10-00.19.23:632][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:632][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.10-00.19.23:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.10-00.19.23:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.10-00.19.23:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.10-00.19.23:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.10-00.19.23:633][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.10-00.19.23:634][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.10-00.19.23:634][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.10-00.19.23:634][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.10-00.19.23:634][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.10-00.19.23:635][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.10-00.19.23:637][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.10-00.19.23:637][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.10-00.19.23:637][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.10-00.19.23:638][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.10-00.19.23:638][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.10-00.19.23:638][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.10-00.19.23:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.10-00.19.23:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.10-00.19.23:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.10-00.19.23:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.10-00.19.23:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.10-00.19.23:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.10-00.19.23:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.10-00.19.23:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.10-00.19.23:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.10-00.19.23:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.10-00.19.23:641][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.10-00.19.23:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.10-00.19.23:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.10-00.19.23:642][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:642][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.10-00.19.23:642][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.10-00.19.23:642][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.10-00.19.23:643][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.10-00.19.23:643][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.10-00.19.23:643][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.10-00.19.23:643][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.10-00.19.23:643][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.10-00.19.23:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.10-00.19.23:644][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:644][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.10-00.19.23:644][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.10-00.19.23:644][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.10-00.19.23:645][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.10-00.19.23:645][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.10-00.19.23:645][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.10-00.19.23:645][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.10-00.19.23:646][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.10-00.19.23:646][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.10-00.19.23:646][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.10-00.19.23:646][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.10-00.19.23:646][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.10-00.19.23:647][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.10-00.19.23:647][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.10-00.19.23:647][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.10-00.19.23:647][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.10-00.19.23:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.10-00.19.23:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.10-00.19.23:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.10-00.19.23:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.10-00.19.23:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.10-00.19.23:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.10-00.19.23:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.10-00.19.23:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.10-00.19.23:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.10-00.19.23:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.10-00.19.23:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.10-00.19.23:650][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.10-00.19.23:652][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.06.10-00.19.23:652][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:652][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.10-00.19.23:653][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.10-00.19.23:653][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Kules/Saved/Config/WindowsServer/Scalability.ini]
+[2023.06.10-00.19.23:653][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.10-00.19.23:653][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.10-00.19.23:654][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.10-00.19.23:654][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.10-00.19.23:654][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.06.10-00.19.23:654][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.06.10-00.19.23:654][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.06.10-00.19.23:655][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Kules/Saved/Config/WindowsServer/Engine.ini]
+[2023.06.10-00.19.23:655][  0]LogInit: Computer: DESKTOP-2N1BJRH
+[2023.06.10-00.19.23:655][  0]LogInit: User: PIXEL
+[2023.06.10-00.19.23:655][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.06.10-00.19.23:656][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.10-00.19.23:656][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.06.10-00.19.23:656][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2023.06.10-00.19.23:656][  0]LogMemory: Process Physical Memory: 76.36 MB used, 76.36 MB peak
+[2023.06.10-00.19.23:656][  0]LogMemory: Process Virtual Memory: 75.78 MB used, 75.78 MB peak
+[2023.06.10-00.19.23:657][  0]LogMemory: Physical Memory: 7867.29 MB used,  8386.93 MB free, 16254.21 MB total
+[2023.06.10-00.19.23:657][  0]LogMemory: Virtual Memory: 134209480.00 MB used,  8245.81 MB free, 134217728.00 MB total
+[2023.06.10-00.19.23:663][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2023.06.10-00.19.23:837][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.06.10-00.19.23:837][  0]LogInit: Using OS detected language (ru-RU).
+[2023.06.10-00.19.23:837][  0]LogInit: Using OS detected locale (ru-KZ).
+[2023.06.10-00.19.23:838][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2023.06.10-00.19.23:838][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.06.10-00.19.23:841][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.10-00.19.23:841][  0]LogODSC: ODSC Thread active.
+[2023.06.10-00.19.23:847][  0]LogInit: Using OS detected language (ru-RU).
+[2023.06.10-00.19.23:847][  0]LogInit: Using OS detected locale (ru-KZ).
+[2023.06.10-00.19.23:847][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2023.06.10-00.19.23:848][  0]LogTextLocalizationManager: Compacting localization data took   0.04ms
+[2023.06.10-00.19.23:849][  0]LogAssetRegistry: FAssetRegistry took 0.0006 seconds to start up
+[2023.06.10-00.19.23:904][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.06.10-00.19.23:904][  0]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.000056 seconds
+[2023.06.10-00.19.23:905][  0]LogPakFile: New pak file ../../../Kules/Content/Paks/Kules-WindowsServer.pak added to pak precacher.
+[2023.06.10-00.19.23:906][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.06.10-00.19.23:906][  0]LogInit: Active device profile: [0000024858C491C0][0000024855CB0010 49] WindowsServer
+[2023.06.10-00.19.23:906][  0]LogInit: Profiles: [0000024858C49340][0000024858539250 49] Windows, [0000024858C491C0][0000024855CB0010 49] WindowsServer, 
+[2023.06.10-00.19.23:914][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2023.06.10-00.19.23:920][  0]LogNetVersion: Kules 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4020273795)
+[2023.06.10-00.19.23:938][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.10-00.19.23:938][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.10-00.19.23:938][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.06.10-00.19.23:954][  0]LogUObjectArray: 15896 objects as part of root set at end of initial load.
+[2023.06.10-00.19.23:954][  0]LogUObjectAllocator: 3213976 out of 0 bytes used by permanent object pool.
+[2023.06.10-00.19.23:954][  0]LogUObjectArray: CloseDisregardForGC: 15896/0 objects in disregard for GC pool
+[2023.06.10-00.19.23:973][  0]LogVaRest: FVaRestModule::StartupModule(28): VaRest (1.1.33) module started
+[2023.06.10-00.19.23:974][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 397F02EE488B473E99A46D996BC7503B | Instance: 5C2E79B447FD653ABFDBC8A06836C256 (DESKTOP-2N1BJRH-17172).
+[2023.06.10-00.19.23:975][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.10-00.19.23:975][  0]LogOcInput: OculusInput pre-init called
+[2023.06.10-00.19.23:976][  0]LogEngine: Initializing Engine...
+[2023.06.10-00.19.23:976][  0]LogVaRest: UVaRestSubsystem::Initialize(24): VaRest subsystem initialized
+[2023.06.10-00.19.23:977][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.10-00.19.23:981][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.10-00.19.23:981][  0]LogNetVersion: Set ProjectVersion to 13.53.21.04.23. Version Checksum will be recalculated on next use.
+[2023.06.10-00.19.23:981][  0]LogInit: Texture streaming: Disabled
+[2023.06.10-00.19.24:018][  0]LogInit: Display: Game Engine Initialized.
+[2023.06.10-00.19.24:018][  0]LogInit: Display: Starting Game.
+[2023.06.10-00.19.24:019][  0]LogNet: Browse: /Game/Kules/Map/Server_Maps/Table1?Name=Player
+[2023.06.10-00.19.24:019][  0]LogLoad: LoadMap: /Game/Kules/Map/Server_Maps/Table1?Name=Player
+[2023.06.10-00.19.24:019][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.06.10-00.19.24:022][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.10-00.19.24:026][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.10-00.19.24:031][  0]LogAIModule: Creating AISystem for world Table1
+[2023.06.10-00.19.24:032][  0]LogLoad: Game class is 'gm_ServerMode_C'
+[2023.06.10-00.19.24:032][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.06.10-00.19.24:032][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.06.10-00.19.24:033][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.06.10-00.19.24:033][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2023.06.10-00.19.24:033][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.10-00.19.24:033][  0]LogNet: GameNetDriver IpNetDriver_2147482562 IpNetDriver listening on port 7777
+[2023.06.10-00.19.24:035][  0]LogWorld: Bringing World /Game/Kules/Map/Server_Maps/Table1.Table1 up for play (max tick rate 30) at 2023.06.10-05.19.24
+[2023.06.10-00.19.24:035][  0]LogWorld: Bringing up level for play took: 0.001418
+[2023.06.10-00.19.24:037][  0]LogLoad: Took 0.018072 seconds to LoadMap(/Game/Kules/Map/Server_Maps/Table1)
+[2023.06.10-00.19.24:038][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=224272, PathHashSize=16, EntriesSize=32752, TotalSize=257040
+[2023.06.10-00.19.24:038][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.10-00.19.24:038][  0]LogLoad: (Engine Initialization) Total time: 0.82 seconds
+[2023.06.10-00.20.32:284][ 24]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.10:33653
+[2023.06.10-00.20.32:284][ 24]LogHandshake: SendConnectChallenge. Timestamp: 68.244535, Cookie: 060159096132090216024047178255150092148216108159190065106068
+[2023.06.10-00.20.33:292][ 54]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.10:33653
+[2023.06.10-00.20.33:293][ 54]LogHandshake: SendConnectChallenge. Timestamp: 69.253412, Cookie: 030074241035064195218140049128250239074232027147027220242075
+[2023.06.10-00.20.34:300][ 84]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.10:33653
+[2023.06.10-00.20.34:300][ 84]LogHandshake: SendConnectChallenge. Timestamp: 70.261195, Cookie: 147169142041182182195138187105211134061082019065137042190041
+[2023.06.10-00.20.35:108][108]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.10:33653
+[2023.06.10-00.20.35:108][108]LogHandshake: SendChallengeAck. InCookie: 060159096132090216024047178255150092148216108159190065106068
+[2023.06.10-00.20.35:108][108]LogNet: Server accepting post-challenge connection from: 192.168.0.10:33653
+[2023.06.10-00.20.35:108][108]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.10-00.20.35:108][108]LogNet: NotifyAcceptedConnection: Name: Table1, TimeStamp: 06/10/23 05:20:35, [UNetConnection] RemoteAddr: 192.168.0.10:33653, Name: IpConnection_2147482460, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.06.10-00.20.35:109][108]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.10:33653, Name: IpConnection_2147482460, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.06.10-00.20.35:109][108]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 192.168.0.10:33653 and LastCookie 060159096132090216024047178255150092148216108159190065106068.
+[2023.06.10-00.20.35:109][108]LogHandshake: SendChallengeAck. InCookie: 060159096132090216024047178255150092148216108159190065106068
+[2023.06.10-00.20.35:109][108]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 192.168.0.10:33653 and LastCookie 060159096132090216024047178255150092148216108159190065106068.
+[2023.06.10-00.20.35:109][108]LogHandshake: SendChallengeAck. InCookie: 060159096132090216024047178255150092148216108159190065106068
+[2023.06.10-00.20.35:141][109]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Kules/Map/Server_Maps/Table1.Table1: Accepted
+[2023.06.10-00.20.35:141][109]LogNet: Remote platform little endian=1
+[2023.06.10-00.20.35:141][109]LogNet: This platform little endian=1
+[2023.06.10-00.20.35:142][109]LogNetVersion: Kules 13.53.21.04.23, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1599395191)
+[2023.06.10-00.20.35:174][110]LogNet: Login request: ?Name=localhost-F05BB95221B549F58A138F2F5DA77AFB userId: NULL:localhost-F05BB95221B549F58A138F2F5DA77AFB platform: NULL
+[2023.06.10-00.20.35:207][111]LogNet: Client netspeed is 100000
+[2023.06.10-00.20.35:307][114]LogNet: Join request: /Game/Kules/Map/Server_Maps/Table1?Name=localhost-F05BB95221B549F58A138F2F5DA77AFB?SplitscreenCount=1
+[2023.06.10-00.20.35:307][114]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2023.06.10-00.20.35:309][114]LogNet: Join succeeded: localhost-F05BB95221
+[2023.06.10-00.20.36:773][158]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/serverpot.php?id=0 (check bExtendedLog for additional data)
+[2023.06.10-00.20.36:872][161]LogNet: Server connection received: ActorChannelFailure [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.10:33653, Name: IpConnection_2147482460, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: pc_Server_C_2147482456, Owner: pc_Server_C_2147482456, UniqueId: NULL:localhost-F05BB95221B549F58A138F2F5DA77AFB
+[2023.06.10-00.20.37:433][179]LogVaRest: Response (200): 
+JSON(
+{"msg":3}
+)JSON
+[2023.06.10-00.20.37:433][179]LogVaRest: Warning: No field with name minBet of type Number
+[2023.06.10-00.20.37:434][179]LogVaRest: Warning: No field with name maxBet of type Number
+[2023.06.10-00.21.08:665][123]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.20:55183
+[2023.06.10-00.21.08:665][123]LogHandshake: SendConnectChallenge. Timestamp: 104.625746, Cookie: 073130205169242113007007202149203255248062139249070156057021
+[2023.06.10-00.21.08:699][124]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.20:55183
+[2023.06.10-00.21.08:699][124]LogHandshake: SendChallengeAck. InCookie: 073130205169242113007007202149203255248062139249070156057021
+[2023.06.10-00.21.08:699][124]LogNet: Server accepting post-challenge connection from: 192.168.0.20:55183
+[2023.06.10-00.21.08:699][124]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.06.10-00.21.08:700][124]LogNet: NotifyAcceptedConnection: Name: Table1, TimeStamp: 06/10/23 05:21:08, [UNetConnection] RemoteAddr: 192.168.0.20:55183, Name: IpConnection_2147482410, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.06.10-00.21.08:700][124]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.20:55183, Name: IpConnection_2147482410, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.06.10-00.21.08:733][125]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Kules/Map/Server_Maps/Table1.Table1: Accepted
+[2023.06.10-00.21.08:733][125]LogNet: Remote platform little endian=1
+[2023.06.10-00.21.08:733][125]LogNet: This platform little endian=1
+[2023.06.10-00.21.08:766][126]LogNet: Login request: ?Name=DESKTOP-2N1BJRH-EBB5245F4D903BAE2E6105914C2736CF userId: NULL:DESKTOP-2N1BJRH-EBB5245F4D903BAE2E6105914C2736CF platform: NULL
+[2023.06.10-00.21.08:799][127]LogNet: Client netspeed is 100000
+[2023.06.10-00.21.09:231][140]LogNet: Join request: /Game/Kules/Map/Server_Maps/Table1?Name=DESKTOP-2N1BJRH-EBB5245F4D903BAE2E6105914C2736CF?SplitscreenCount=1
+[2023.06.10-00.21.09:231][140]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2023.06.10-00.21.09:232][140]LogNet: Join succeeded: DESKTOP-2N1BJRH-EBB5
+[2023.06.10-00.21.09:331][143]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/returnData.php?id=105 (check bExtendedLog for additional data)
+[2023.06.10-00.21.09:967][163]LogVaRest: Response (200): 
+JSON(
+{"id":105,"login":"Bek02","password":"$2y$10$wnzFG2UXtdIJgEhseT1DC.ISPGeTGeijAlhHJrRRvomMB0sf1gFVa","phone":"87770760255","gold":8850,"donatemoney":0,"status":0,"online":0,"image":"0","access":1}
+)JSON
+[2023.06.10-00.21.09:968][163]LogScript: Warning: Accessed None trying to read property Name
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:0080
+[2023.06.10-00.21.09:969][163]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Board
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ChangeName
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerName
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:Give a name to the player
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.09:969][163]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:00FC
+[2023.06.10-00.21.09:970][163]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Board
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ChangeName
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerName
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:Give a name to the player
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.09:971][163]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.21.09:972][163]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Board
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ChangeName
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.09:974][163]LogScript: Warning: Accessed None trying to read property Name
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:0080
+[2023.06.10-00.21.09:975][163]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Board
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ChangeName
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:Give a name to the player
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.09:976][163]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:00FC
+[2023.06.10-00.21.09:977][163]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Board
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ChangeName
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:Give a name to the player
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.10:699][184]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/serverpot.php?id=0 (check bExtendedLog for additional data)
+[2023.06.10-00.21.10:934][192]LogVaRest: Response (200): 
+JSON(
+{"msg":3}
+)JSON
+[2023.06.10-00.21.10:934][192]LogVaRest: Warning: No field with name minBet of type Number
+[2023.06.10-00.21.10:935][192]LogVaRest: Warning: No field with name maxBet of type Number
+[2023.06.10-00.21.26:139][648]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.21.26:140][648]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.21.27:640][693]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.21.27:640][693]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.21.27:641][693]LogStreaming: Warning: Failed to read file '../../../Kules/Saved/SaveGames/ServerOptionsSave.sav' error.
+[2023.06.10-00.21.28:265][713]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.21.28:299][714]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.21.28:299][714]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.21.28:299][714]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.28:300][714]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.21.28:300][714]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.43:559][172]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.21.44:224][193]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.21.53:908][483]LogBlueprintUserMessages: [gm_ServerMode_C_2147482563] Hello
+[2023.06.10-00.21.54:108][489]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.21.54:108][489]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.54:109][489]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.21.54:109][489]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.21.54:110][489]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplaywin.php?id=0&win=0 (check bExtendedLog for additional data)
+[2023.06.10-00.21.54:110][489]LogScript: Warning: Accessed None trying to read property PlayerStateRef
+	pc_Server_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.pc_Server_C_2147482456
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server:1256
+[2023.06.10-00.21.54:110][489]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Winnericon
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+
+[2023.06.10-00.21.54:739][509]LogVaRest: Response (200): 
+JSON(
+{"msg":1}
+)JSON
+[2023.06.10-00.22.00:627][685]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.00:627][685]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.00:628][685]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/serverpot.php?id=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.00:628][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.22.00:630][685]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.22.01:253][705]LogVaRest: Response (200): 
+JSON(
+{"msg":3}
+)JSON
+[2023.06.10-00.22.01:253][705]LogVaRest: Warning: No field with name minBet of type Number
+[2023.06.10-00.22.01:254][705]LogVaRest: Warning: No field with name maxBet of type Number
+[2023.06.10-00.22.01:287][706]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.22.01:287][706]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.22.01:288][706]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.01:288][706]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.01:289][706]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.01:289][706]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.02:158][731]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.02:158][731]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.02:386][739]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.22.02:420][740]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.22.02:420][740]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.02:421][740]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.02:421][740]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.02:422][740]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.11:434][  9]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.11:434][  9]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'PlayerControllersArray' of length 2 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.22.12:071][ 29]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.22.12:072][ 29]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.12:072][ 29]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.12:073][ 29]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.12:073][ 29]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.14:837][111]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.15:104][120]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.22.20:341][276]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.20:341][276]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'PlayerControllersArray' of length 2 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.22.21:008][297]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.22.21:008][297]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.21:009][297]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.21:009][297]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.21:010][297]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.39:900][864]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.22.40:569][885]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.22.59:683][457]LogBlueprintUserMessages: [gm_ServerMode_C_2147482563] Hello
+[2023.06.10-00.22.59:851][462]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.59:851][462]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.59:852][462]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.22.59:853][462]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.22.59:853][462]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplaywin.php?id=105&win=8850 (check bExtendedLog for additional data)
+[2023.06.10-00.22.59:853][462]LogScript: Warning: Accessed None trying to read property PlayerStateRef
+	pc_Server_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.pc_Server_C_2147482406
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server:1256
+[2023.06.10-00.22.59:854][462]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Winnericon
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+
+[2023.06.10-00.23.00:519][483]LogVaRest: Response (200): 
+JSON(
+{"msg":0}
+)JSON
+[2023.06.10-00.23.00:519][483]LogVaRest: Warning: No field with name gold of type String
+[2023.06.10-00.23.00:520][483]LogVaRest: Warning: No field with name id of type String
+[2023.06.10-00.23.00:520][483]LogBlueprintUserMessages: [pc_Server_C_2147482406] Player Id: 
+Gold: 
+[2023.06.10-00.23.06:384][658]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.06:384][658]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.06:384][658]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/serverpot.php?id=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.06:385][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.06:385][658]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.07:043][679]LogVaRest: Response (200): 
+JSON(
+{"msg":3}
+)JSON
+[2023.06.10-00.23.07:043][679]LogVaRest: Warning: No field with name minBet of type Number
+[2023.06.10-00.23.07:044][679]LogVaRest: Warning: No field with name maxBet of type Number
+[2023.06.10-00.23.07:045][679]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.23.07:045][679]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.07:045][679]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.07:046][679]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.07:046][679]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.07:077][680]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.23.07:912][704]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.07:913][704]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.08:176][713]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.23.08:176][713]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.23.08:178][713]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.08:178][713]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.08:179][713]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.08:179][713]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.12:405][839]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'PlayerControllersArray' of length 2 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.14:612][905]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.15:281][926]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.23.32:075][428]LogBlueprintUserMessages: [gm_ServerMode_C_2147482563] Hello
+[2023.06.10-00.23.32:243][433]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.32:244][433]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.32:244][433]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.32:244][433]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.32:246][433]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplaywin.php?id=105&win=8850 (check bExtendedLog for additional data)
+[2023.06.10-00.23.32:246][433]LogScript: Warning: Accessed None trying to read property PlayerStateRef
+	pc_Server_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.pc_Server_C_2147482406
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server:1256
+[2023.06.10-00.23.32:246][433]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Winnericon
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+
+[2023.06.10-00.23.32:948][455]LogVaRest: Response (200): 
+JSON(
+{"msg":0}
+)JSON
+[2023.06.10-00.23.32:949][455]LogVaRest: Warning: No field with name gold of type String
+[2023.06.10-00.23.32:949][455]LogVaRest: Warning: No field with name id of type String
+[2023.06.10-00.23.32:950][455]LogBlueprintUserMessages: [pc_Server_C_2147482406] Player Id: 
+Gold: 
+[2023.06.10-00.23.38:786][629]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.38:786][629]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.38:786][629]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/serverpot.php?id=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.38:786][629]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.38:787][629]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.39:447][650]LogVaRest: Response (200): 
+JSON(
+{"msg":3}
+)JSON
+[2023.06.10-00.23.39:447][650]LogVaRest: Warning: No field with name minBet of type Number
+[2023.06.10-00.23.39:448][650]LogVaRest: Warning: No field with name maxBet of type Number
+[2023.06.10-00.23.39:448][650]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.23.39:449][650]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.23.39:449][650]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.39:449][650]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.39:450][650]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.39:451][650]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.40:286][674]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.40:286][674]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=105&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.40:548][683]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.23.40:549][683]LogVaRest: Response (200): 
+JSON(
+{"msg":0,"id":105,"gold":8850}
+)JSON
+[2023.06.10-00.23.40:549][683]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.40:550][683]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.40:550][683]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer2_6
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.40:550][683]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:CompleteConnectServer
+	Function /Game/Kules/Blueprint/GameFramework/Server/PlayerState_kules.PlayerState_kules_C:ExecuteUbergraph_PlayerState_kules
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.41:416][708]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2023.06.10-00.23.41:416][708]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.20:55183, Name: IpConnection_2147482410, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: pc_Server_C_2147482406, Owner: pc_Server_C_2147482406, UniqueId: NULL:DESKTOP-2N1BJRH-EBB5245F4D903BAE2E6105914C2736CF
+[2023.06.10-00.23.41:416][708]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.20:55183, Name: IpConnection_2147482410, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: pc_Server_C_2147482406, Owner: pc_Server_C_2147482406, UniqueId: NULL:DESKTOP-2N1BJRH-EBB5245F4D903BAE2E6105914C2736CF, Channels: 87, Time: 2023.06.10-00.23.41
+[2023.06.10-00.23.41:418][708]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.20:55183, Name: IpConnection_2147482410, Driver: GameNetDriver IpNetDriver_2147482562, IsServer: YES, PC: pc_Server_C_2147482406, Owner: pc_Server_C_2147482406, UniqueId: NULL:DESKTOP-2N1BJRH-EBB5245F4D903BAE2E6105914C2736CF
+[2023.06.10-00.23.41:418][708]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'BoardPlayersArray' of length 9 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.41:419][708]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PlayersStateArray' of length 2 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.41:419][708]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CardPlacementArray' of length 9 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.41:419][708]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2023.06.10-00.23.44:803][810]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.44:804][810]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.44:804][810]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.44:805][810]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.44:806][810]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplaywin.php?id=0&win=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.44:806][810]LogScript: Warning: Accessed None trying to read property PlayerStateRef
+	pc_Server_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.pc_Server_C_2147482456
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server:1256
+[2023.06.10-00.23.44:807][810]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Winnericon
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+
+[2023.06.10-00.23.44:808][810]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'PlayerControllersArray' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.45:068][819]LogVaRest: Response (200): 
+JSON(
+{"msg":1}
+)JSON
+[2023.06.10-00.23.49:824][961]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.23.49:825][961]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.23.49:825][961]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.23.49:825][961]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.23.49:827][961]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.23.49:827][961]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.23.49:827][961]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.23.49:828][961]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.23.49:828][961]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.23.49:829][961]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.23.49:830][961]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.23.49:830][961]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.23.51:344][  7]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/serverpot.php?id=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.51:344][  7]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.51:349][  7]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.52:007][ 28]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.23.52:040][ 29]LogVaRest: Response (200): 
+JSON(
+{"msg":3}
+)JSON
+[2023.06.10-00.23.52:041][ 29]LogVaRest: Warning: No field with name minBet of type Number
+[2023.06.10-00.23.52:041][ 29]LogVaRest: Warning: No field with name maxBet of type Number
+[2023.06.10-00.23.52:874][ 53]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.53:134][ 62]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.23.57:345][188]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.57:345][188]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.57:347][188]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.23.57:347][188]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.23.57:348][188]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplaywin.php?id=0&win=0 (check bExtendedLog for additional data)
+[2023.06.10-00.23.57:348][188]LogScript: Warning: Accessed None trying to read property PlayerStateRef
+	pc_Server_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.pc_Server_C_2147482456
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server:1256
+[2023.06.10-00.23.57:349][188]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Winnericon
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+
+[2023.06.10-00.23.57:349][188]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PlayerControllersArray' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.23.57:614][197]LogVaRest: Response (200): 
+JSON(
+{"msg":1}
+)JSON
+[2023.06.10-00.24.02:347][338]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.24.02:347][338]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.24.02:348][338]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.24.02:348][338]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.24.02:349][338]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.24.02:349][338]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.24.02:350][338]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.24.02:350][338]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.24.02:351][338]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.24.02:351][338]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.24.02:352][338]LogScript: Warning: Attempted to access pc_Server_C_2147482406 via property K2Node_DynamicCast_AsPc_Server, but pc_Server_C_2147482406 is pending kill
+	bfl_Controller_C /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.Default__bfl_Controller_C
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only):0074
+[2023.06.10-00.24.02:352][338]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:RestartPlayerGame
+	Function /Game/Kules/Blueprint/GameFramework/Function/Server_Function/bfl_Controller.bfl_Controller_C:Get Player Controller Reference(Server Only)
+
+[2023.06.10-00.24.03:853][383]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.24.03:853][383]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/serverpot.php?id=0 (check bExtendedLog for additional data)
+[2023.06.10-00.24.03:853][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerCash' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.24.04:486][403]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.24.04:520][404]LogVaRest: Response (200): 
+JSON(
+{"msg":3}
+)JSON
+[2023.06.10-00.24.04:520][404]LogVaRest: Warning: No field with name minBet of type Number
+[2023.06.10-00.24.04:521][404]LogVaRest: Warning: No field with name maxBet of type Number
+[2023.06.10-00.24.05:361][428]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplay.php?id=0&bet=0 (check bExtendedLog for additional data)
+[2023.06.10-00.24.05:627][437]LogVaRest: Response (200): 
+JSON(
+{"msg":2}
+)JSON
+[2023.06.10-00.24.09:862][562]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.24.09:863][562]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:OnRep_PlayerCash
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.24.09:864][562]LogScript: Warning: Accessed None trying to read property Cash
+	BoardPlayer_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.BoardPlayer12
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer:01ED
+[2023.06.10-00.24.09:865][562]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:BetPlayerChange
+	Function /Game/Kules/Blueprint/GameFramework/Server/BoardPlayer.BoardPlayer_C:ExecuteUbergraph_BoardPlayer
+
+[2023.06.10-00.24.09:865][562]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): POST https://kules1.000webhostapp.com/playerplaywin.php?id=0&win=0 (check bExtendedLog for additional data)
+[2023.06.10-00.24.09:865][562]LogScript: Warning: Accessed None trying to read property PlayerStateRef
+	pc_Server_C /Game/Kules/Map/Server_Maps/Table1.Table1:PersistentLevel.pc_Server_C_2147482456
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server:1256
+[2023.06.10-00.24.09:867][562]LogScript: Warning: Script call stack:
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Start the game-the first player
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:Finish the game and start a new party
+	Function /Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C:ExecuteUbergraph_gm_ServerMode
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:Winnericon
+	Function /Game/Kules/Blueprint/GameFramework/Server/pc_Server.pc_Server_C:ExecuteUbergraph_pc_Server
+
+[2023.06.10-00.24.09:867][562]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PlayerControllersArray' of length 0 in '/Game/Kules/Blueprint/GameFramework/Server/gm_ServerMode.gm_ServerMode_C'!
+[2023.06.10-00.24.10:133][571]LogVaRest: Response (200): 
+JSON(
+{"msg":1}
+)JSON
