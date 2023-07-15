@@ -1,2 +1,10 @@
 # kulespackage
-Все упакованный проекты
+ENG
+Packaged version of the game "Kules" for Windows, Android, HTML5. This game is a network game, so there is a Server folder in the repository. Server is the part of the game that needs to be uploaded to the VDS server. The game uses API requests to the database, it is already connected to a specific hosting. The source code of the project will appear soon, where you can change the state of the game and the mechanism. If you have your own hosting, then you should download the source code from the repository on Github (does not exist yet) and install the necessary files, such as Unreal Engine 4.27.2, compiled from sources.
+
+Warning: The project will not work in the binary engine, it may open, but it will not be packed. For this reason, you should download and install the engine from the source code. Next, you need to download and install the Va Rest plugin. Va Rest is a plugin that sends API requests. If you have hosting, you need to change the links to your own API in the project. I will write all the details when I upload the project itself.
+
+RUS
+Упакованная версия игры "Кулес" для Windows, Android, HTML5. Эта игра является сетевой, поэтому в репозитории есть папка Server. Server - это часть игры, которая должна быть загружена на сервер VDS. В игре используются API-запросы к базе данных, она уже подключена к определенному хостингу. Скоро появится исходный код проекта, где вы сможете изменить состояние игры и механизм. Если у вас есть собственный хостинг, то вы должны скачать исходный код из репозитория на Github (пока не существует) и установить необходимые файлы, такие как Unreal Engine 4.27.2, собранный из исходников.
+
+Предупреждение: В бинарном движке проект не будет работать, может открыться, но упаковаться не будет. По этой причине вы должны скачать и установить движок из исходного кода. Далее, вам необходимо скачать и установить плагин Va Rest. Va Rest - это плагин, который отправляет API-запросы. Если у вас есть хостинг, вам нужно изменить ссылки на вашу собственную API в проекте. Все подробности напишу, когда загружу сам проект.
